@@ -1,1 +1,2 @@
-export default from './ActionSheet.android.js';
+import ActionSheet from './ActionSheet.android.js'
+export default ActionSheet
